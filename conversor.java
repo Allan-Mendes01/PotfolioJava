@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class conversor {
+class Conversor {
     
     public static void main(String[] args){
 
